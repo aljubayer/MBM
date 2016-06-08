@@ -1,0 +1,5 @@
+F:\OMCB\mbm\UpdatedMBM\UpdatedMBM\bin\Debug\UpdatedMBM.exe
+F:\OMCB\mbm\UpdatedMBM\UpdatedMBM\bin\Debug\UpdatedMBM.pdb
+F:\OMCB\mbm\UpdatedMBM\UpdatedMBM\obj\Debug\UpdatedMBM.exe
+F:\OMCB\mbm\UpdatedMBM\UpdatedMBM\obj\Debug\UpdatedMBM.pdb
+F:\OMCB\mbm\UpdatedMBM\UpdatedMBM\obj\Debug\UpdatedMBM.csprojResolveAssemblyReference.cache
